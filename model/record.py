@@ -1,5 +1,5 @@
 """
-Programmer: Varshil Patel
+Program by : Varshil Patel
 File: record.py
 Description: Record model representing one row of the bear/mammal dataset.
 """
